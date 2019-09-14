@@ -1,10 +1,10 @@
-#Friday 9/13/19 3pm Meeting
-##In attendance
+# Friday 9/13/19 3pm Meeting
+## In attendance
  - Connor Dowd
  - Alex Sandridge
  - Ann Marie Mahon
 
-##Topics covered
+## Topics covered
  - Creation of a git repository
  - Doodle poll created to choose time for regular meetings
  - Objectives for next week
