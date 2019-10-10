@@ -12,5 +12,6 @@
 
 ## Topics covered & Decisions made
  - Creation of Project Charter
+
 ## Next Meeting
-Wednesday 5:30 at ITLL (preferably), conditional on no class conflict
+Thursday 5:00 at ITLL
