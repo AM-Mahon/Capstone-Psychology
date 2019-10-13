@@ -24,5 +24,5 @@
     - Garrison & Kakam: Section 5 (Use case model)
 
 ## Next Meeting
-Wednesday 10/16 5:30pm ITLL 143
+Wednesday 10/16 5:30pm ITLL 143  
 Thursday 10/17 5:00 ITLL 143
