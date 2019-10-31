@@ -8,3 +8,4 @@
 - Determine updates needed for requirements
 - Determine components for license
 - Update Trello
+- Email Psychology IT
