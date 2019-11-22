@@ -2,9 +2,25 @@
 
 ## 5pm, ITLL 137
 
-## Rough agenda
+## In attendance
 
-- Sign up for presentation slot
-- Email Sponsor about meeting Monday, Slack
-- Finalize plan, send to Paradise
-- Thoughts on Ionic after practice
+- Ann Marie Mahon
+- Connor Dowd
+- Kakam Chen
+- Josh Brown
+- Han Yin
+- Keyu Wu
+- Alex Sandridge
+- Garrison Lee
+
+## Decisions made and actions taken
+
+- Signed up for December 3rd, 8 am
+- Email sponsor
+- Reviewed requirements document, sent link to sponsor
+
+## Next meeting
+
+- Monday, 5:30 pm, Muenzinger
+- Wednesday 5:30 pm ITLL
+- Thursday, 5 pm ITLL
