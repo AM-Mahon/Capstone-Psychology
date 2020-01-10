@@ -5,8 +5,11 @@
         <field id="tpd4" name="Begin date" width="104" order="1"/>
         <field id="tpd5" name="End date" width="103" order="2"/>
         <timeline>
-            <![CDATA[0]]>
+            <![CDATA[5,0]]>
         </timeline>
+        <option id="color.recent">
+            <![CDATA[#00cc00 #ff0000]]>
+        </option>
     </view>
     <view id="resource-table">
         <field id="0" name="Name" width="210" order="0"/>
@@ -36,20 +39,19 @@
             <taskproperty id="tpd8" name="coordinator" type="default" valuetype="text"/>
             <taskproperty id="tpd9" name="predecessorsr" type="default" valuetype="text"/>
         </taskproperties>
-        <task id="0" name="Memory task" color="#8cb6ce" meeting="false" start="2020-01-16" duration="11" complete="0" thirdDate="2019-09-25" thirdDate-constraint="0" expand="true"/>
-        <task id="5" name="Shuffle" color="#8cb6ce" meeting="false" start="2020-01-16" duration="11" complete="0" thirdDate="2019-09-25" thirdDate-constraint="0" expand="true"/>
         <task id="8" name="Name + Face" color="#8cb6ce" meeting="false" start="2020-01-16" duration="11" complete="0" thirdDate="2019-09-25" thirdDate-constraint="0" expand="true"/>
-        <task id="11" name="Encode recognition" color="#8cb6ce" meeting="false" start="2020-01-16" duration="11" complete="0" thirdDate="2019-09-25" thirdDate-constraint="0" expand="true"/>
-        <task id="14" name="Who's new" color="#8cb6ce" meeting="false" start="2020-01-16" duration="11" complete="0" thirdDate="2019-09-25" thirdDate-constraint="0" expand="true"/>
+        <task id="31" name="Learning task" color="#8cb6ce" meeting="false" start="2020-01-16" duration="11" complete="0" thirdDate="2020-01-13" thirdDate-constraint="0" expand="true"/>
+        <task id="43" name="Server &amp; Database setup" color="#00cc00" meeting="false" start="2020-01-16" duration="11" complete="0" thirdDate="2020-01-13" thirdDate-constraint="0" expand="true"/>
+        <task id="0" name="Memory task" color="#8cb6ce" meeting="false" start="2020-01-31" duration="10" complete="0" thirdDate="2019-09-25" thirdDate-constraint="0" expand="true"/>
         <task id="16" name="Forced Choice assessment" color="#8cb6ce" meeting="false" start="2020-01-31" duration="10" complete="0" thirdDate="2019-12-26" thirdDate-constraint="0" expand="true"/>
-        <task id="17" name="Registering &amp; tutorial" color="#8cb6ce" meeting="false" start="2020-02-14" duration="10" complete="0" thirdDate="2020-01-10" thirdDate-constraint="0" expand="true">
-            <depend id="18" type="2" difference="0" hardness="Strong"/>
-        </task>
-        <task id="18" name="Login" color="#8cb6ce" meeting="false" start="2020-02-28" duration="5" complete="0" thirdDate="2020-01-10" thirdDate-constraint="0" expand="true"/>
-        <task id="24" name="Dashboard" color="#8cb6ce" meeting="false" start="2020-03-06" duration="5" complete="0" thirdDate="2020-01-23" thirdDate-constraint="0" expand="true"/>
-        <task id="25" name="History" color="#8cb6ce" meeting="false" start="2020-03-13" duration="6" complete="0" thirdDate="2020-01-23" thirdDate-constraint="0" expand="true"/>
-        <task id="26" name="Notification" color="#8cb6ce" meeting="false" start="2020-03-13" duration="10" complete="0" thirdDate="2020-01-23" thirdDate-constraint="0" expand="true"/>
-        <task id="30" name="Connect to server" color="#8cb6ce" meeting="false" start="2020-03-27" duration="10" complete="0" thirdDate="2020-01-27" thirdDate-constraint="0" expand="true"/>
+        <task id="45" name="API setup" color="#00cc00" meeting="false" start="2020-01-31" duration="10" complete="0" thirdDate="2020-01-13" thirdDate-constraint="0" expand="true"/>
+        <task id="5" name="Shuffle" color="#8cb6ce" meeting="false" start="2020-02-14" duration="10" complete="0" thirdDate="2019-09-25" thirdDate-constraint="0" expand="true"/>
+        <task id="14" name="Who's new" color="#8cb6ce" meeting="false" start="2020-02-14" duration="10" complete="0" thirdDate="2019-09-25" thirdDate-constraint="0" expand="true"/>
+        <task id="30" name="Connect to server" color="#00cc00" meeting="false" start="2020-02-14" duration="10" complete="0" thirdDate="2020-01-27" thirdDate-constraint="0" expand="true"/>
+        <task id="17" name="Registering &amp; Login" color="#8cb6ce" meeting="false" start="2020-02-28" duration="10" complete="0" thirdDate="2020-01-10" thirdDate-constraint="0" expand="true"/>
+        <task id="24" name="Dashboard" color="#8cb6ce" meeting="false" start="2020-03-13" duration="5" complete="0" thirdDate="2020-01-23" thirdDate-constraint="0" expand="true"/>
+        <task id="46" name="Spring break" color="#ff0000" meeting="false" start="2020-03-23" duration="5" complete="0" thirdDate="2020-01-13" thirdDate-constraint="0" expand="true"/>
+        <task id="25" name="History &amp; Notification" color="#8cb6ce" meeting="false" start="2020-03-30" duration="9" complete="0" thirdDate="2020-01-23" thirdDate-constraint="0" expand="true"/>
     </tasks>
     <resources>
         <resource id="0" name="Ann Marie Mahon" function="Default:1" contacts="" phone=""/>
