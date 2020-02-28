@@ -4,7 +4,13 @@ This repository is used to keep track of meeting minutes for the CSCI 4308 CU Bo
 
 ## Spring Semester
 
-- To be filled in
+- [1-14 meeting](/meeting_1-14.md) Setting up environments, determining best host for backend
+- [1-30 meeting](/meeting_1-30.md) Structural and process decisions, start code for front end
+- [2-4 meeting](/meeting_2-4.md) Sponsor meeting. Showed first stages of tasks, got feedback to implement.
+- [2-6 meeting](/meeting_2-6.md) Determining structure for backend, constinuing work on front end tasks
+- [2-13 meeting](/meeting_2-13.md) Continuing work on front and back end.
+- [2-20 meeting](/meeting_2-20.md) Continuing work on front and back end.
+- [2-27 meeting](/meeting_2-27.md) Discussing back end progress, next steps for front end and sponsor questions
 
 ## Fall Semester
 
