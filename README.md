@@ -11,6 +11,7 @@ This repository is used to keep track of meeting minutes for the CSCI 4308 CU Bo
 - [2-13 meeting](/meeting_2-13.md) Continuing work on front and back end.
 - [2-20 meeting](/meeting_2-20.md) Continuing work on front and back end.
 - [2-27 meeting](/meeting_2-27.md) Discussing back end progress, next steps for front end and sponsor questions
+- [3-2 meeting](/meeting_3-2.md) Sponsor meeting.  Covered current progress, scoring, levels, implementation details, etc.
 
 ## Fall Semester
 
