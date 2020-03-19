@@ -13,6 +13,7 @@ This repository is used to keep track of meeting minutes for the CSCI 4308 CU Bo
 - [2-27 meeting](/meeting_2-27.md) Discussing back end progress, next steps for front end and sponsor questions
 - [3-2 meeting](/meeting_3-2.md) Sponsor meeting.  Covered current progress, scoring, levels, implementation details, etc.
 - [3-5 meeting](/meeting_3-5.md) Covered current progress, made plan for back end meeting.
+- [3-6 meeting](/meeting_3-6.md) Sponsor meeting, covering name + face task, general implementation.
 - [3-8 meeting](/meeting_3-8.md) Backend meeting.  Made plan for implementation going forward, synced team.
 - [3-12 meeting](/meeting_3-12.md) First remote meeting due to COVID.  Planning demo app for sponsors.  Backend - Front end connection info.
 
