@@ -16,6 +16,7 @@ This repository is used to keep track of meeting minutes for the CSCI 4308 CU Bo
 - [3-6 meeting](/meeting_3-6.md) Sponsor meeting, covering name + face task, general implementation.
 - [3-8 meeting](/meeting_3-8.md) Backend meeting.  Made plan for implementation going forward, synced team.
 - [3-12 meeting](/meeting_3-12.md) First remote meeting due to COVID.  Planning demo app for sponsors.  Backend - Front end connection info.
+- [3-19 meeting](/meeting_3-19.md) Looking at additional front end features, planning needed features for backend and additional meeting.
 
 ## Fall Semester
 
